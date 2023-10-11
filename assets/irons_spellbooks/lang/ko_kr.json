@@ -1,5 +1,5 @@
 ﻿{
-  "item.irons_spellbooks.spell_book": "Spell Book",
+  "item.irons_spellbooks.spell_book": "주문서",
   "item.irons_spellbooks.wimpy_spell_book": "Wimpy Spell Book",
   "item.irons_spellbooks.evoker_spell_book": "Grimoire of Evokation",
   "item.irons_spellbooks.illusioner_spell_book": "Book of Illusions",
@@ -13,7 +13,7 @@
   "item.irons_spellbooks.iron_spell_book": "Ironbound Tome",
   "item.irons_spellbooks.copper_spell_book": "Flimsy Journal",
   "item.irons_spellbooks.druidic_spell_book": "Druidic Tome",
-  "item.irons_spellbooks.scroll": "Scroll",
+  "item.irons_spellbooks.scroll": "두루마리",
   "item.irons_spellbooks.common_ink": "Common Ink",
   "item.irons_spellbooks.uncommon_ink": "Uncommon Ink",
   "item.irons_spellbooks.rare_ink": "Rare Ink",
