@@ -6,8 +6,25 @@ uncommon > 고급
 rare > 희귀
 epic > 영웅
 legendary > 전설
+Unique > 유일
 
 Frozen > 얼어붙은
 
-Cast > 시전
+Fire > 화염
+Ice > 얼음
+Lightning > 번개
+Holy > 신성
+Blood > 피
+Evocation > 발생
+Ender > 엔더
+Arcane > 신비
+Recovery > 회복
+Protective > 보호
+Nature > 자연
 
+
+Cast > 시전
+AOE > 광역
+
+문체
+-ㅂ니다
